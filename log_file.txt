@@ -1,0 +1,90 @@
+Timestamp:16:12 13-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 0,download:True
+Timestamp:16:12 13-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 4,download:True
+Timestamp:16:12 13-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 2,download:True
+Timestamp:16:12 13-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 3,download:False
+Timestamp:16:12 13-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:31 13-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 2,download:True
+Timestamp:16:31 13-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:31 13-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 4,download:True
+Timestamp:16:31 13-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 3,download:False
+Timestamp:16:31 13-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 0,download:True
+Timestamp:16:32 13-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 3,download:False
+Timestamp:16:32 13-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 0,download:True
+Timestamp:16:32 13-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:32 13-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 2,download:True
+Timestamp:16:32 13-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 4,download:True
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 1,download:True
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 1,download:False
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 1,download:True
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 2,download:True
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 3,download:False
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 0,download:True
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:33 13-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 4,download:True
+Timestamp:16:34 13-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 1,download:True
+Timestamp:16:35 13-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:35 13-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:35 13-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 1,download:False
+Timestamp:16:35 13-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 1,download:True
+Timestamp:16:35 13-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 3,download:False
+Timestamp:16:35 13-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 0,download:True
+Timestamp:16:35 13-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:35 13-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 2,download:True
+Timestamp:16:35 13-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 4,download:True
+Timestamp:14:28 20-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 1,download:True
+Timestamp:14:28 20-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:14:28 20-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:14:28 20-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 1,download:False
+Timestamp:14:28 20-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 1,download:True
+Timestamp:15:15 20-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 1,download:True
+Timestamp:15:15 20-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:15:15 20-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:15:15 20-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 1,download:False
+Timestamp:15:15 20-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 1,download:True
+Timestamp:16:16 20-06-2024,URL:https://www.youtube.com/watch?v=XrflFPDbD98&ab_channel=uwaterloo
+,Thread_ID: Thread 3,download:False
+Timestamp:16:16 20-06-2024,URL:https://www.youtube.com/watch?v=pvjPzsLIyGw&ab_channel=TheUniversityofWesternAustralia
+,Thread_ID: Thread 2,download:True
+Timestamp:16:16 20-06-2024,URL:https://www.youtube.com/watch?v=BRBQsdyYfG8&ab_channel=MonashGraduateResearchOffice,Thread_ID: Thread 4,download:True
+Timestamp:16:16 20-06-2024,URL:https://www.youtube.com/watch?v=dh0pJdgY6Lc&ab_channel=UniversityofSouthAustralia
+,Thread_ID: Thread 1,download:True
+Timestamp:16:16 20-06-2024,URL:https://www.youtube.com/watch?v=yu_x8qv6mfA&ab_channel=CreateStudioOfficial
+,Thread_ID: Thread 0,download:True

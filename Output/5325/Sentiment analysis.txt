@@ -1,0 +1,3 @@
+Sentiment:
+Polarity:0.21961152882205512
+Subjectiviy:0.549812030075188
